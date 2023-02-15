@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1675391536 source:c:\users\pc\desktop\universidad\s2\seminario estructura de datos 1\actividadesc++\sed-m1p2- herencia y sobrecarga de operadores\sed-m1p2- herencia y sobrecarga de operadores\gatodomestico.cpp
+	"felino.cpp"
+
+1675390143 source:c:\users\pc\desktop\universidad\s2\seminario estructura de datos 1\actividadesc++\sed-m1p2- herencia y sobrecarga de operadores\sed-m1p2- herencia y sobrecarga de operadores\main.cpp
+
+1675391628 source:c:\users\pc\desktop\universidad\s2\seminario estructura de datos 1\actividadesc++\sed-m1p2- herencia y sobrecarga de operadores\sed-m1p2- herencia y sobrecarga de operadores\mamifero.cpp
+	<iostream>
+	<string>
+
+1675391562 source:c:\users\pc\desktop\universidad\s2\seminario estructura de datos 1\actividadesc++\sed-m1p2- herencia y sobrecarga de operadores\sed-m1p2- herencia y sobrecarga de operadores\felino.cpp
+	"mamifero.cpp"
+
+1676333810 c:\users\pc\desktop\universidad\s2\seminario estructura de datos 1\actividadesc++\sed-m1p2- herencia y sobrecarga de operadores\sed-m1p2- herencia y sobrecarga de operadores\mamifero.cpp
+	<iostream>
+	<string>
+
+1675391562 c:\users\pc\desktop\universidad\s2\seminario estructura de datos 1\actividadesc++\sed-m1p2- herencia y sobrecarga de operadores\sed-m1p2- herencia y sobrecarga de operadores\felino.cpp
+	"mamifero.cpp"
+
+1675391536 c:\users\pc\desktop\universidad\s2\seminario estructura de datos 1\actividadesc++\sed-m1p2- herencia y sobrecarga de operadores\sed-m1p2- herencia y sobrecarga de operadores\gatodomestico.cpp
+	"felino.cpp"
+
+1675391755 source:c:\users\pc\desktop\universidad\s2\seminario estructura de datos 1\actividadesc++\sed-m1p2- herencia y sobrecarga de operadores\sed-m1p2- herencia y sobrecarga de operadores\menu.cpp
+	"gatodomestico.cpp"
+
